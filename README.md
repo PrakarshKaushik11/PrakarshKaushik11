@@ -1,12 +1,3 @@
-<!--
-  ANIMATED GITHUB PROFILE README
-  ------------------------------
-  Upload this file as README.md to the special repository:
-  https://github.com/PrakarshKaushik11/PrakarshKaushik11
-
-  Before publishing the arcade links, make sure the project repository is named
-  offline-arcade, or replace that name in the links below.
--->
 
 <div align="center">
 
@@ -47,7 +38,7 @@
 <div align="center">
 
 <a href="https://PrakarshKaushik11.github.io/offline-arcade/">
-   <img src="https://img.shields.io/badge/PLAY%20MH%20OFFLINE%20ARCADE-6a11cb?style=for-the-badge&logo=html5&logoColor=white" alt="Play MH Offline Arcade" />
+  <img src="https://img.shields.io/badge/PLAY%20OFFLINE%20ARCADE-6a11cb?style=for-the-badge&logo=html5&logoColor=white" alt="Play Offline Arcade" />
 </a>
 <a href="https://github.com/PrakarshKaushik11/offline-arcade">
   <img src="https://img.shields.io/badge/VIEW%20SOURCE-2575fc?style=for-the-badge&logo=github&logoColor=white" alt="View source code" />
@@ -55,7 +46,7 @@
 
 </div>
 
-**MH Offline Arcade** is a browser-only arcade collection built with HTML, CSS, JavaScript, and Canvas. It includes eight playable games with no installation or backend required:
+**Offline Arcade** is a browser-only arcade collection built with HTML, CSS, JavaScript, and Canvas. It includes eight playable games with no installation or backend required:
 
 - Dash Flip
 - Hill Climb
