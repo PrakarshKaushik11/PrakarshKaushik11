@@ -1,3 +1,12 @@
+<!--
+  ANIMATED GITHUB PROFILE README
+  ------------------------------
+  Upload this file as README.md to the special repository:
+  https://github.com/PrakarshKaushik11/PrakarshKaushik11
+
+  Before publishing the arcade links, make sure the project repository is named
+  offline-arcade, or replace that name in the links below.
+-->
 
 <div align="center">
 
@@ -37,10 +46,10 @@
 
 <div align="center">
 
-<a href="https://PrakarshKaushik11.github.io/offline-arcade/">
+<a href="https://PrakarshKaushik11.github.io/offline-arcade/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PLAY%20OFFLINE%20ARCADE-6a11cb?style=for-the-badge&logo=html5&logoColor=white" alt="Play Offline Arcade" />
 </a>
-<a href="https://github.com/PrakarshKaushik11/offline-arcade">
+<a href="https://github.com/PrakarshKaushik11/offline-arcade" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VIEW%20SOURCE-2575fc?style=for-the-badge&logo=github&logoColor=white" alt="View source code" />
 </a>
 
