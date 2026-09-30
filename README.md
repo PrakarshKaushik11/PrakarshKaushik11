@@ -1,14 +1,4 @@
-<!--
-  ANIMATED GITHUB PROFILE README TEMPLATE
-  ----------------------------------------
-  Setup:
-  1. Create a new repo with the EXACT same name as your GitHub PrakarshKaushik11
-     (this is the special "profile repo" GitHub looks for).
-  2. Put this file in it as README.md.
-  3. Replace every instance of PrakarshKaushik11 below with your actual GitHub PrakarshKaushik11.
-  4. Swap the links, skills, and text for your own.
-  See the end of this file for how to enable the animated snake graph.
--->
+
 
 <div align="center">
 
