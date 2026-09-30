@@ -1,13 +1,3 @@
-<!--
-  ANIMATED GITHUB PROFILE README
-  ------------------------------
-  Upload this file as README.md to the special repository:
-  https://github.com/PrakarshKaushik11/PrakarshKaushik11
-
-  Before publishing the arcade links, make sure the project repository is named
-  offline-arcade, or replace that name in the links below.
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There%2C%20I'm%20Prakarsh%20Kaushik%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
